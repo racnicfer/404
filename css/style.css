@@ -1,0 +1,99 @@
+header {
+  background: white;
+  margin: 40px 10em 0 10em;
+  border-radius: 10px;
+}
+body {
+  background-color: #232F3E;
+}
+iframe {
+  width: 70%
+}
+p {
+  font-size: 17px;
+}
+.text {
+  border-radius: 10px;
+  margin: 0 10em 10px 10em;
+  background: white; 
+  padding: 1px;
+}
+
+a {
+  margin: 20px;
+  display: block;
+  text-align: center;
+}
+
+span:hover,  {
+  background: #232F3E;
+}
+
+header a .account {
+  text-decoration: none;
+  color: red;
+  position: relative;
+  font-weight: bold;
+  font-size: 16px;
+  background: #FF9800;
+  border-radius: 10px;
+  display: block;
+  text-align: center;
+  margin-right: 32em;
+  margin-left: 32em;
+   height: 30px; 
+}
+
+input {
+  margin-bottom: 20px;
+  border-radius: 10px;
+  background: #FF9800;
+  position: block;
+  color: white;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+div {
+  text-align: center;
+}
+input:hover, #main-wrap div:hover {
+  background: #232F3E;
+}
+.logo {
+  border-radius: 10px;
+  background: grey;
+  margin: 5px;
+  position: block;
+  margin-top: 20px;
+}
+
+#main-wrap div {
+  display: inline-block;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  background: #FF9800;
+   margin-right: 30px;
+  margin-top: 20px;
+  letter-spacing: 1px;
+}
+.ytp-thumbnail-overlay ytp-cued-thumbnail-overlay{
+  width: 34.375em;
+  height: 19.6875em;
+}
+
+div a {
+ color: white;
+text-decoration: none;
+}
+
+iframe {
+  width: 35em;
+  height: 19.6875em;
+}
+#video{
+  background: white;
+  margin-right: 10em;
+  margin-left: 10em;
+  border-radius: 10px;
+ position: relative;
+}
